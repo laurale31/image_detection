@@ -58,7 +58,7 @@ if __name__ == '__main__':
 
 
     # Initialize Pinecone
-    pc = Pinecone(api_key='c626bc5b-81e6-4c14-b8fb-e7b76255e4c0')
+    pc = Pinecone(api_key='API_KEY')
    
 
     # Define index name and dimension
