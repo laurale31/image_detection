@@ -68,7 +68,7 @@ def image_lookup(keywords):
         "q": keywords,
         "tbm": "isch",  # Image search
         "num": 100,
-        "api_key": "57d1873397ced906a941420b3d3120115afeecde38d2cf350e5c89899b393796"  # Replace with your actual SerpApi key
+        "api_key": "SERPAPI_KEY"  # Replace with your actual SerpApi key
     }
 
     search = GoogleSearch(params)
